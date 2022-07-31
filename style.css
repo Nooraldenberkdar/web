@@ -1,0 +1,110 @@
+body{
+    text-align:  center;
+    margin: 0 auto 0 auto;
+    font-size: 1.8rem;
+    font-family: 'M PLUS Rounded 1c', sans-serif;    
+
+    
+}
+.div1{
+    background-color: rgb(233, 254, 247);
+    margin: 0 auto 0 auto;
+    padding-top: 8rem;
+    
+
+
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+    color: rgb(90, 255, 200);
+    
+}
+h2{
+    color: rgb(0, 154, 103);
+
+}
+h3{
+    color: rgb(90, 255, 200);
+
+}
+
+
+.top-cloud{
+    position: absolute;
+    right: 10rem;
+    top: 3rem;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 8rem;
+    top: 16rem;
+}
+.mountine{
+    margin:4rem auto 0 auto;
+    
+    
+}
+.alaa{
+    border-radius: 100%;
+    margin:7rem auto 0 auto;
+}
+.x{
+    margin-bottom: 0rem;
+}
+.y{
+    margin-top: 0rem;
+}
+.skills{
+    margin:20rem 20rem 20rem 20rem;
+    
+}
+.image1{
+    width: 25%;
+    float: left;
+}
+.image2{
+    width: 18%;
+    float: right;
+}
+.skill-row{
+    margin:5rem auto auto auto;
+}
+.Experience{
+    margin:20rem auto 20rem auto;
+}
+.z{
+    color: rgb(90, 255, 200);
+}
+h4{
+    color: rgb(90, 255, 200);
+
+}
+.help{
+    margin:20rem auto 20rem auto;
+}
+.footer{
+    
+    
+}
+.contact{
+    margin:3rem auto 0 auto;
+}
+.footer-link{
+    
+    margin-top: 0;
+}
+.bottom-container{
+    background-color: rgb(233, 254, 247);
+    margin-bottom: 0rem;
+  
+}
+.nemo{
+    font-size: 1rem;
+    margin-bottom: 0rem;
+    margin-top:7rem;
+}
+.c{
+    padding-top: 0rem;
+    padding-bottom: 2rem;
+}
